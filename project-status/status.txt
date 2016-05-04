@@ -1,0 +1,12 @@
+http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/ #following that tutorial
+http://192.168.121.136:3000/ # running code
+http://blog.modulus.io/nodejs-and-sqlite
+http://docs.sequelizejs.com/en/latest/docs/migrations/
+https://www.sqlite.org/datatype3.html
+http://stackoverflow.com/questions/18211413/inserting-data-with-node-js
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+https://addons.mozilla.org/en-US/firefox/tag/postman
+http://docs.sequelizejs.com/en/latest/docs/associations/
+http://docs.sequelizejs.com/en/1.7.0/docs/utils/
+http://stackoverflow.com/questions/12487416/how-to-organize-a-node-app-that-uses-sequelize
+https://github.com/sequelize/express-example
